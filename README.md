@@ -298,7 +298,7 @@ When you are ready to submit your project, do the following steps:
 
 ### Converting to HTML
 
-There are several ways to generate an HTML copy of the notebook:
+There are quite different ways in which we can genrate an HTML copy of the notebook:
 
  - Running the last cell of the notebook will export an HTML copy
 
